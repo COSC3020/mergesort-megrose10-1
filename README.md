@@ -9,7 +9,7 @@ Hint: To make merge sort in-place, think about what happens during the merge --
 where are elements moved to and from? To make it iterative, think about the
 part of the array each recursive call considers.
 
-I submitted this work Fall 2024. Unsure why the linter test is not passing. 
+I submitted this work Fall 2024. 
 
 I used the slides and video from class to look at how merge works and how it sorts and looked at the runtime analysis from the slides. The TA helped me in office hours with runtime analysis. I also used https://www.geeksforgeeks.org/time-and-space-complexity-analysis-of-merge-sort/ to look over the analysis of recursive mergesort. While looking at runtimes for for loops I used https://www.geeksforgeeks.org/how-to-analyse-loops-for-complexity-analysis-of-algorithms/. 
 I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
